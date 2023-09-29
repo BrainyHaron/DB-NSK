@@ -1,2 +1,2 @@
 # DB-NSK
-Вigital Иreakthrough NSK task
+Вigital Breakthrough NSK task
