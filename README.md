@@ -1,2 +1,2 @@
 # DB-NSK
-Вigital Breakthrough NSK task
+Digital Breakthrough NSK task
